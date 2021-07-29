@@ -43,3 +43,9 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+.vscode/*
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
